@@ -51,7 +51,7 @@
         </p>
         <code> $ type(variable_data_name)</code>
         <p>then you can see type of data visualization used.</p>
-        <img src="./preview/select_column_as_name_column.png">
+        <img src="./preview/check_type_data_visualization.png">
     </li>
 </ul>
 
